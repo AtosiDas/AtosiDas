@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Atosi Das</h1>
-<h3 align="center">AI Engineer | Blockchain Developer | Applied Cryptographer | Software Engineer</h3>
+<h3 align="center">Software Engineer || Blockchain Developer || Growing in AI/ML & Generative AI</h3>
 
 <p align="center">
   <strong>M.Tech in Cryptology & Security (ISI Kolkata)</strong>
@@ -13,14 +13,14 @@
 
 ## 🌟 Overview
 
-I am a multidisciplinary engineer working across **Artificial Intelligence, Generative AI, Blockchain, and Secure Distributed Systems**.  
+I am a Software engineer working across **Artificial Intelligence, Generative AI, Blockchain, and Secure Distributed Systems**.  
 My recent work includes:
 
 - Building **AI/GenAI applications**, LLM-powered chatbots, and agentic systems  
 - Developing **smart contracts, tokenization frameworks, and privacy-preserving protocols**  
 - Engineering secure, performant, and scalable software systems end-to-end  
 
-I love solving problems that sit at the intersection of **AI × Cryptography × Distributed Systems × Software Engineering**.
+I love solving problems that sit at the intersection of **AI × Distributed Systems × Software Engineering**.
 
 ---
 
@@ -36,7 +36,7 @@ I love solving problems that sit at the intersection of **AI × Cryptography × 
 
 ## 🔗 Blockchain & Cryptography
 
-- Smart Contract Development (Solidity, Rust)  
+- Smart Contract Development (Solidity, Haskell, Rust)  
 - Gasless minting, NFT tooling, compressed NFTs  
 - Tokenization of real-world assets  
 - Distributed trust, ZK concepts, privacy protocols  
@@ -47,11 +47,11 @@ I love solving problems that sit at the intersection of **AI × Cryptography × 
 ## 💻 Software Engineering Skill Set
 
 ### Languages  
-**Python | JavaScript | TypeScript | Rust | Solidity | SQL**
+**Python | JavaScript | Solidity | Haskell | SQL**
 
 ### Frameworks & Tools  
-- **AI/ML**: LangChain, Transformers, HuggingFace, OpenAI API  
-- **Backend**: Node.js, Express.js  
+- **AI/ML**: LangChain, Langgraph, Transformers, HuggingFace, OpenAI API  
+- **Backend**: Node.js, Express.js, FastAPI
 - **Frontend**: React.js, Next.js  
 - **Blockchain**: Hardhat, Foundry, Remix, ICP Canisters  
 - **Data**: MongoDB, PostgreSQL  
@@ -63,12 +63,10 @@ I love solving problems that sit at the intersection of **AI × Cryptography × 
 
 ### 🤖 AI & GenAI  
 - **Custom LLM Chatbot** – RAG-based chatbot with memory, tools, and multi-step reasoning  
-- **AI Automation Tools** – Prompt pipelines, embeddings search, task agents  
 
 ### 🔗 Blockchain  
 - **NFT Minting Platform** – Full-stack dApp with gasless minting  
 - **Compressed NFTs on Solana** – State-efficient NFT experiments  
-- **IRCRC2 Token Wallet (ICP + Rust)** – Secure wallet with sending/receiving support  
 
 ### 📘 Research  
 - **Blockchain-enabled Distributed Payment Card Tokenization**  
@@ -88,8 +86,7 @@ I love solving problems that sit at the intersection of **AI × Cryptography × 
 ## 🌱 What I'm Working On Now
 
 - Building advanced **AI chatbots** and LLM-driven applications  
-- Exploring **agentic systems** for automation  
-- Rust for blockchain + secure protocol engineering  
+- Exploring **agentic systems** for automation   
 - Privacy-preserving distributed systems  
 
 ---
