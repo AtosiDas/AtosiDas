@@ -74,19 +74,6 @@ I love solving problems that sit at the intersection of **AI × Distributed Syst
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AtosiDas&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtosiDas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
-
----
-
 ## 🌱 What I'm Working On Now
 
 - Building advanced **AI chatbots** and LLM-driven applications  
