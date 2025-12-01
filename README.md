@@ -77,12 +77,13 @@ I love solving problems that sit at the intersection of **AI × Distributed Syst
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AtosiDas&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AtosiDas&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AtosiDas&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtosiDas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
+
 
 ---
 
@@ -97,7 +98,7 @@ I love solving problems that sit at the intersection of **AI × Distributed Syst
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/atosi-das](https://www.linkedin.com/in/atosi-das-5737511b6/)" target="_blank">
+<a href="https://www.linkedin.com/in/atosi-das-5737511b6/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
