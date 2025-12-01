@@ -77,8 +77,11 @@ I love solving problems that sit at the intersection of **AI × Distributed Syst
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AtosiDas&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AtosiDas&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AtosiDas&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AtosiDas&theme=tokyonight&show_icons=true&hide_border=true" />
 </p>
 
 ---
@@ -94,11 +97,11 @@ I love solving problems that sit at the intersection of **AI × Distributed Syst
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/atosi-das" target="_blank">
+<a href="[https://www.linkedin.com/in/atosi-das](https://www.linkedin.com/in/atosi-das-5737511b6/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:atosidas.dev@gmail.com" target="_blank">
+<a href="mailto:atosidas44@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
