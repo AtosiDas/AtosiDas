@@ -47,7 +47,7 @@ I love solving problems that sit at the intersection of **AI × Distributed Syst
 ## 💻 Software Engineering Skill Set
 
 ### Languages  
-**Python | JavaScript | Solidity | Haskell | SQL**
+**Python | JavaScript | React.js | Solidity | Haskell | SQL**
 
 ### Frameworks & Tools  
 - **AI/ML**: LangChain, Langgraph, Transformers, HuggingFace, OpenAI API  
